@@ -9,7 +9,7 @@ About
 **Autor: [Roberto D'Amico](http://bobboteck.github.io)**
 
 A simple JoyStick for web application that use HTML5, Canvas and AngularJS. 
-Actual in develop this new branch.
+Actual in develop this new branch. Study in progress ...
 
 **Actual release version is 2.0.0**
 
